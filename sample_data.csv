@@ -1,0 +1,22 @@
+id,Name,Age,Salary,Location,Department
+1,John Smith,35,61000,New York,Finance
+2,Emily Davis,27,47000,San Francisco,Marketing
+3,Michael Johnson,50,76000,Chicago,Engineering
+4,Sarah Williams,24,55000,Los Angeles,Sales
+5,David Brown,42,68000,Houston,HR
+6,Jessica Taylor,31,52000,New York,Engineering
+7,James Anderson,45,73000,San Francisco,Finance
+8,Ashley Thomas,29,59000,Chicago,Marketing
+9,Robert Martinez,37,67000,Los Angeles,Engineering
+10,Linda Harris,53,79000,Houston,Sales
+11,Christopher Clark,26,49000,New York,HR
+12,Patricia Lewis,39,74000,San Francisco,Finance
+13,Matthew Robinson,48,78000,Chicago,Engineering
+14,Barbara Walker,33,61000,Los Angeles,Sales
+15,Joseph Young,55,80000,Houston,HR
+16,Susan Hall,43,69000,New York,Finance
+17,Daniel King,30,58000,San Francisco,Marketing
+18,Laura Wright,38,71000,Chicago,Engineering
+19,Kevin Scott,41,72000,Los Angeles,Sales
+20,Karen Green,34,63000,Houston,HR
+
